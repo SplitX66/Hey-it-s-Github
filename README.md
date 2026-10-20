@@ -11,3 +11,5 @@ Nombre del alumno.
 - Conectarlo con GitHub.
 - Registrar commits.
 - Enviar cambios con push.
+
+## Importante: Profe cree el README directamente aquí porque no me dejo hacer el git push para moverlo desde Git Bash
